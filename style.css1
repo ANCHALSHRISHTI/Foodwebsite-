@@ -8,15 +8,15 @@ body {
   max-width: 100%;
 }
 
-.hero_image {
-	background: url(heroimage.jpg) no-repeat;
+.foodvibes_image {
+	background: url(C:\Users\DELL\Downloads\foodvibes.jpg) no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 	height: 100vh;
 	position: relative;
 }
 
-.hero_wrapper {
+.foodvibes_wrapper {
 	color:white;
 	position: absolute;
 	top: 50%;
@@ -24,13 +24,13 @@ body {
 	transform: translate(-50%,-50%);
 }
 
-.hero_wrapper h1 {
+.foodvibes_wrapper h1 {
 	font-size: 2.4rem;
 	text-align: center;
 }
 
 
-.hero_wrapper span {
+.foodvibes_wrapper span {
 	margin-left: 5rem;
 	display: inline-block;
 	margin-bottom: .5rem;
