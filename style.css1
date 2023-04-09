@@ -9,7 +9,7 @@ body {
 }
 
 .foodvibes_image {
-	background: url(C:\Users\DELL\Downloads\foodvibes.jpg) no-repeat;
+	background: url("foodvibes.jpg") no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 	height: 100vh;
